@@ -1,0 +1,14 @@
+C:\Users\nandan.ds\Videos\CSAssignment\Day3_Inheritance_Q1\bin\Debug\net8.0\Day3_Inheritance_Q1.exe
+C:\Users\nandan.ds\Videos\CSAssignment\Day3_Inheritance_Q1\bin\Debug\net8.0\Day3_Inheritance_Q1.deps.json
+C:\Users\nandan.ds\Videos\CSAssignment\Day3_Inheritance_Q1\bin\Debug\net8.0\Day3_Inheritance_Q1.runtimeconfig.json
+C:\Users\nandan.ds\Videos\CSAssignment\Day3_Inheritance_Q1\bin\Debug\net8.0\Day3_Inheritance_Q1.dll
+C:\Users\nandan.ds\Videos\CSAssignment\Day3_Inheritance_Q1\bin\Debug\net8.0\Day3_Inheritance_Q1.pdb
+C:\Users\nandan.ds\Videos\CSAssignment\Day3_Inheritance_Q1\obj\Debug\net8.0\Day3_Inheritance_Q1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nandan.ds\Videos\CSAssignment\Day3_Inheritance_Q1\obj\Debug\net8.0\Day3_Inheritance_Q1.AssemblyInfoInputs.cache
+C:\Users\nandan.ds\Videos\CSAssignment\Day3_Inheritance_Q1\obj\Debug\net8.0\Day3_Inheritance_Q1.AssemblyInfo.cs
+C:\Users\nandan.ds\Videos\CSAssignment\Day3_Inheritance_Q1\obj\Debug\net8.0\Day3_Inheritance_Q1.csproj.CoreCompileInputs.cache
+C:\Users\nandan.ds\Videos\CSAssignment\Day3_Inheritance_Q1\obj\Debug\net8.0\Day3_Inheritance_Q1.dll
+C:\Users\nandan.ds\Videos\CSAssignment\Day3_Inheritance_Q1\obj\Debug\net8.0\refint\Day3_Inheritance_Q1.dll
+C:\Users\nandan.ds\Videos\CSAssignment\Day3_Inheritance_Q1\obj\Debug\net8.0\Day3_Inheritance_Q1.pdb
+C:\Users\nandan.ds\Videos\CSAssignment\Day3_Inheritance_Q1\obj\Debug\net8.0\Day3_Inheritance_Q1.genruntimeconfig.cache
+C:\Users\nandan.ds\Videos\CSAssignment\Day3_Inheritance_Q1\obj\Debug\net8.0\ref\Day3_Inheritance_Q1.dll
