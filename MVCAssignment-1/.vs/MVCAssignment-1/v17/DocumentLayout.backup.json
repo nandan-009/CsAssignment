@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nandan.ds\\Music\\DotNet\\MVCAssignment-1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35AF2D7B-5DA6-4E6D-8445-3A512F5CA4C0}|MVCAssignment-1\\MVCAssignment-1.csproj|c:\\users\\nandan.ds\\music\\dotnet\\mvcassignment-1\\mvcassignment-1\\controllers\\messagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35AF2D7B-5DA6-4E6D-8445-3A512F5CA4C0}|MVCAssignment-1\\MVCAssignment-1.csproj|solutionrelative:mvcassignment-1\\controllers\\messagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35AF2D7B-5DA6-4E6D-8445-3A512F5CA4C0}|MVCAssignment-1\\MVCAssignment-1.csproj|c:\\users\\nandan.ds\\music\\dotnet\\mvcassignment-1\\mvcassignment-1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35AF2D7B-5DA6-4E6D-8445-3A512F5CA4C0}|MVCAssignment-1\\MVCAssignment-1.csproj|solutionrelative:mvcassignment-1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35AF2D7B-5DA6-4E6D-8445-3A512F5CA4C0}|MVCAssignment-1\\MVCAssignment-1.csproj|c:\\users\\nandan.ds\\music\\dotnet\\mvcassignment-1\\mvcassignment-1\\views\\message\\display.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{35AF2D7B-5DA6-4E6D-8445-3A512F5CA4C0}|MVCAssignment-1\\MVCAssignment-1.csproj|solutionrelative:mvcassignment-1\\views\\message\\display.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35AF2D7B-5DA6-4E6D-8445-3A512F5CA4C0}|MVCAssignment-1\\MVCAssignment-1.csproj|c:\\users\\nandan.ds\\music\\dotnet\\mvcassignment-1\\mvcassignment-1\\views\\message\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{35AF2D7B-5DA6-4E6D-8445-3A512F5CA4C0}|MVCAssignment-1\\MVCAssignment-1.csproj|solutionrelative:mvcassignment-1\\views\\message\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nandan.ds\\Music\\DotNet\\MVCAssignment-1\\MVCAssignment-1\\Program.cs",
+              "RelativeDocumentMoniker": "MVCAssignment-1\\Program.cs",
+              "ToolTip": "C:\\Users\\nandan.ds\\Music\\DotNet\\MVCAssignment-1\\MVCAssignment-1\\Program.cs",
+              "RelativeToolTip": "MVCAssignment-1\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T06:30:56.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Display.cshtml",
+              "DocumentMoniker": "C:\\Users\\nandan.ds\\Music\\DotNet\\MVCAssignment-1\\MVCAssignment-1\\Views\\Message\\Display.cshtml",
+              "RelativeDocumentMoniker": "MVCAssignment-1\\Views\\Message\\Display.cshtml",
+              "ToolTip": "C:\\Users\\nandan.ds\\Music\\DotNet\\MVCAssignment-1\\MVCAssignment-1\\Views\\Message\\Display.cshtml",
+              "RelativeToolTip": "MVCAssignment-1\\Views\\Message\\Display.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-22T06:26:46.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\nandan.ds\\Music\\DotNet\\MVCAssignment-1\\MVCAssignment-1\\Views\\Message\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCAssignment-1\\Views\\Message\\Index.cshtml",
+              "ToolTip": "C:\\Users\\nandan.ds\\Music\\DotNet\\MVCAssignment-1\\MVCAssignment-1\\Views\\Message\\Index.cshtml",
+              "RelativeToolTip": "MVCAssignment-1\\Views\\Message\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-22T06:23:14.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MessageController.cs",
+              "DocumentMoniker": "C:\\Users\\nandan.ds\\Music\\DotNet\\MVCAssignment-1\\MVCAssignment-1\\Controllers\\MessageController.cs",
+              "RelativeDocumentMoniker": "MVCAssignment-1\\Controllers\\MessageController.cs",
+              "ToolTip": "C:\\Users\\nandan.ds\\Music\\DotNet\\MVCAssignment-1\\MVCAssignment-1\\Controllers\\MessageController.cs",
+              "RelativeToolTip": "MVCAssignment-1\\Controllers\\MessageController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T06:18:51.597Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

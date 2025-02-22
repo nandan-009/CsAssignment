@@ -1,0 +1,27 @@
+﻿@model MVCAssignment_2.Models.Rent
+
+@{
+    ViewData["Title"] = "Calculate";
+}
+
+<h1 style="color:rebeccapurple">@ViewBag.Name</h1>
+
+<div>
+    <dl class="row">
+
+      
+
+        <dd>
+            <p>Owner : @ViewBag.HallOwner</p>
+            <p>Cost Per Day : @ViewBag.CostPerDay</p>
+            <p>Renting from @ViewBag.StartDate to @ViewBag.EndDate</p>
+            <p>Total rent : <span style="color:rebeccapurple"><b>@ViewBag.TotalCost</b></span></p>
+        </dd>
+       
+        
+    </dl>
+</div>
+<div>
+    @Html.ActionLink("Edit", "Edit", new { /* id = Model.PrimaryKey */ }) |
+    <a asp-action="Index">Back to List</a>
+</div>
