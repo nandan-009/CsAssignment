@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nandan.ds\\Music\\DotNet\\MVCAssignment-3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BFCF27A5-03D8-4A64-B3B6-FAE2EB4514F5}|MVCAssignment-3\\MVCAssignment-3.csproj|c:\\users\\nandan.ds\\music\\dotnet\\mvcassignment-3\\mvcassignment-3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFCF27A5-03D8-4A64-B3B6-FAE2EB4514F5}|MVCAssignment-3\\MVCAssignment-3.csproj|solutionrelative:mvcassignment-3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFCF27A5-03D8-4A64-B3B6-FAE2EB4514F5}|MVCAssignment-3\\MVCAssignment-3.csproj|c:\\users\\nandan.ds\\music\\dotnet\\mvcassignment-3\\mvcassignment-3\\views\\home\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BFCF27A5-03D8-4A64-B3B6-FAE2EB4514F5}|MVCAssignment-3\\MVCAssignment-3.csproj|solutionrelative:mvcassignment-3\\views\\home\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFCF27A5-03D8-4A64-B3B6-FAE2EB4514F5}|MVCAssignment-3\\MVCAssignment-3.csproj|c:\\users\\nandan.ds\\music\\dotnet\\mvcassignment-3\\mvcassignment-3\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BFCF27A5-03D8-4A64-B3B6-FAE2EB4514F5}|MVCAssignment-3\\MVCAssignment-3.csproj|solutionrelative:mvcassignment-3\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFCF27A5-03D8-4A64-B3B6-FAE2EB4514F5}|MVCAssignment-3\\MVCAssignment-3.csproj|c:\\users\\nandan.ds\\music\\dotnet\\mvcassignment-3\\mvcassignment-3\\models\\ihalldao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFCF27A5-03D8-4A64-B3B6-FAE2EB4514F5}|MVCAssignment-3\\MVCAssignment-3.csproj|solutionrelative:mvcassignment-3\\models\\ihalldao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFCF27A5-03D8-4A64-B3B6-FAE2EB4514F5}|MVCAssignment-3\\MVCAssignment-3.csproj|c:\\users\\nandan.ds\\music\\dotnet\\mvcassignment-3\\mvcassignment-3\\models\\halldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFCF27A5-03D8-4A64-B3B6-FAE2EB4514F5}|MVCAssignment-3\\MVCAssignment-3.csproj|solutionrelative:mvcassignment-3\\models\\halldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFCF27A5-03D8-4A64-B3B6-FAE2EB4514F5}|MVCAssignment-3\\MVCAssignment-3.csproj|c:\\users\\nandan.ds\\music\\dotnet\\mvcassignment-3\\mvcassignment-3\\models\\halldao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFCF27A5-03D8-4A64-B3B6-FAE2EB4514F5}|MVCAssignment-3\\MVCAssignment-3.csproj|solutionrelative:mvcassignment-3\\models\\halldao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFCF27A5-03D8-4A64-B3B6-FAE2EB4514F5}|MVCAssignment-3\\MVCAssignment-3.csproj|c:\\users\\nandan.ds\\music\\dotnet\\mvcassignment-3\\mvcassignment-3\\models\\hall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFCF27A5-03D8-4A64-B3B6-FAE2EB4514F5}|MVCAssignment-3\\MVCAssignment-3.csproj|solutionrelative:mvcassignment-3\\models\\hall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFCF27A5-03D8-4A64-B3B6-FAE2EB4514F5}|MVCAssignment-3\\MVCAssignment-3.csproj|c:\\users\\nandan.ds\\music\\dotnet\\mvcassignment-3\\mvcassignment-3\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFCF27A5-03D8-4A64-B3B6-FAE2EB4514F5}|MVCAssignment-3\\MVCAssignment-3.csproj|solutionrelative:mvcassignment-3\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFCF27A5-03D8-4A64-B3B6-FAE2EB4514F5}|MVCAssignment-3\\MVCAssignment-3.csproj|c:\\users\\nandan.ds\\music\\dotnet\\mvcassignment-3\\mvcassignment-3\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{BFCF27A5-03D8-4A64-B3B6-FAE2EB4514F5}|MVCAssignment-3\\MVCAssignment-3.csproj|solutionrelative:mvcassignment-3\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nandan.ds\\Music\\DotNet\\MVCAssignment-3\\MVCAssignment-3\\Program.cs",
+              "RelativeDocumentMoniker": "MVCAssignment-3\\Program.cs",
+              "ToolTip": "C:\\Users\\nandan.ds\\Music\\DotNet\\MVCAssignment-3\\MVCAssignment-3\\Program.cs*",
+              "RelativeToolTip": "MVCAssignment-3\\Program.cs*",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T12:39:11.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IHallDAO.cs",
+              "DocumentMoniker": "C:\\Users\\nandan.ds\\Music\\DotNet\\MVCAssignment-3\\MVCAssignment-3\\Models\\IHallDAO.cs",
+              "RelativeDocumentMoniker": "MVCAssignment-3\\Models\\IHallDAO.cs",
+              "ToolTip": "C:\\Users\\nandan.ds\\Music\\DotNet\\MVCAssignment-3\\MVCAssignment-3\\Models\\IHallDAO.cs",
+              "RelativeToolTip": "MVCAssignment-3\\Models\\IHallDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T12:39:01.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HallDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\nandan.ds\\Music\\DotNet\\MVCAssignment-3\\MVCAssignment-3\\Models\\HallDBContext.cs",
+              "RelativeDocumentMoniker": "MVCAssignment-3\\Models\\HallDBContext.cs",
+              "ToolTip": "C:\\Users\\nandan.ds\\Music\\DotNet\\MVCAssignment-3\\MVCAssignment-3\\Models\\HallDBContext.cs",
+              "RelativeToolTip": "MVCAssignment-3\\Models\\HallDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T12:38:58.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Hall.cs",
+              "DocumentMoniker": "C:\\Users\\nandan.ds\\Music\\DotNet\\MVCAssignment-3\\MVCAssignment-3\\Models\\Hall.cs",
+              "RelativeDocumentMoniker": "MVCAssignment-3\\Models\\Hall.cs",
+              "ToolTip": "C:\\Users\\nandan.ds\\Music\\DotNet\\MVCAssignment-3\\MVCAssignment-3\\Models\\Hall.cs",
+              "RelativeToolTip": "MVCAssignment-3\\Models\\Hall.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T12:38:51.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\nandan.ds\\Music\\DotNet\\MVCAssignment-3\\MVCAssignment-3\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "MVCAssignment-3\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\nandan.ds\\Music\\DotNet\\MVCAssignment-3\\MVCAssignment-3\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "MVCAssignment-3\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-23T12:21:37.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HallDAO.cs",
+              "DocumentMoniker": "C:\\Users\\nandan.ds\\Music\\DotNet\\MVCAssignment-3\\MVCAssignment-3\\Models\\HallDAO.cs",
+              "RelativeDocumentMoniker": "MVCAssignment-3\\Models\\HallDAO.cs",
+              "ToolTip": "C:\\Users\\nandan.ds\\Music\\DotNet\\MVCAssignment-3\\MVCAssignment-3\\Models\\HallDAO.cs",
+              "RelativeToolTip": "MVCAssignment-3\\Models\\HallDAO.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T12:08:47.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Search.cshtml",
+              "DocumentMoniker": "C:\\Users\\nandan.ds\\Music\\DotNet\\MVCAssignment-3\\MVCAssignment-3\\Views\\Home\\Search.cshtml",
+              "RelativeDocumentMoniker": "MVCAssignment-3\\Views\\Home\\Search.cshtml",
+              "ToolTip": "C:\\Users\\nandan.ds\\Music\\DotNet\\MVCAssignment-3\\MVCAssignment-3\\Views\\Home\\Search.cshtml",
+              "RelativeToolTip": "MVCAssignment-3\\Views\\Home\\Search.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAIwBMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-23T11:21:35.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\nandan.ds\\Music\\DotNet\\MVCAssignment-3\\MVCAssignment-3\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCAssignment-3\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\nandan.ds\\Music\\DotNet\\MVCAssignment-3\\MVCAssignment-3\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MVCAssignment-3\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAA4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-23T10:53:02.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\nandan.ds\\Music\\DotNet\\MVCAssignment-3\\MVCAssignment-3\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MVCAssignment-3\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\nandan.ds\\Music\\DotNet\\MVCAssignment-3\\MVCAssignment-3\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MVCAssignment-3\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T10:50:13.573Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

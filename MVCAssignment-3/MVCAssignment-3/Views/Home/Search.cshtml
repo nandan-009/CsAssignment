@@ -1,0 +1,79 @@
+﻿@model IEnumerable<MVCAssignment_3.Models.Hall>
+
+@{
+    ViewData["Title"] = "Search";
+}
+
+
+
+<div>
+    @if(Model.Count() == 0){
+        <div class="empty"> 
+            <p>No Hall found within the Budget </p>
+        </div>
+    }
+    else{
+        
+     <div>
+            <h1 style="text-align:center">Hall Details</h1>
+            <table class="table" border="1">
+                <thead>
+                    <tr>
+                        <th>
+                            <b>Hall Name</b>
+                        </th>
+                        <th>
+                            <b>Owner Name</b>
+                        </th>
+                        <th>
+                            <b>Cost per Day</b>
+                        </th>
+                        <th>
+                            <b>Mobile no</b>
+                        </th>
+                        <th>
+                            <b>Address</b>
+                        </th>
+                        <th></th>
+                    </tr>
+                </thead>
+                <tbody>
+
+                    @foreach (var item in Model)
+                    {
+
+                        <tr>
+                            @* <td> *@
+                            @*     @Html.DisplayFor(modelItem => item.Hid) *@
+                            @* </td> *@
+                            <td>
+                                @Html.DisplayFor(modelItem => item.HallName)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.OwnerName)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.CostPerDay)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Mobile)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Address)
+                            </td>
+                            @* <td> *@
+                            @*     @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) | *@
+                            @*     @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) | *@
+                            @*     @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ }) *@
+                            @* </td> *@
+
+                        </tr>
+
+                    }
+                </tbody>
+            </table>
+     </div>
+
+    }
+</div>
+
