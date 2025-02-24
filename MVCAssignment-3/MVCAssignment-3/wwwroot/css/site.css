@@ -21,6 +21,23 @@ body {
   margin-bottom: 60px;
 }
 
+.index{
+    margin:0 200px;
+    height:400px;
+    justify-content:center;
+
+}
+
+.heading{
+    text-align:center;
+    color:deeppink;
+    padding:50px 0;
+
+}
+.form{
+    text-align:center;
+}
+
 .empty{
     display:flex;
     justify-content:center;
@@ -30,4 +47,6 @@ body {
     font-size:24px;
     color: red;
 }
+
+
 

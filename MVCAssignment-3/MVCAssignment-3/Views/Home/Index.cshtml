@@ -4,12 +4,16 @@
     ViewData["Title"] = "Index";
 }
 
-<h1 style="color:deeppink">Welcome to Hall Details</h1>
+<div class="index">
+    <h1 class="heading">Welcome to Hall Details</h1>
 
-<form asp-action="Search">
-    
-    <label for="price" >Enter the Hall budget per day :  </label>
-    <input type="number" name="price" placeholder="Enter Budget"></input>
 
-    <input type="submit" value="Get Halls"></input>
-</form>
+    <form class="form" asp-action="Search">
+
+        <label for="price">Enter the Hall budget per day :  </label>
+        <input type="number" name="price" placeholder="Enter Budget"></input>
+
+        <input type="submit" value="Get Halls"></input>
+    </form>
+</div>
+
