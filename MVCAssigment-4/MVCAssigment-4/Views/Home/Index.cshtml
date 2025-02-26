@@ -1,0 +1,8 @@
+﻿@model MVCAssigment_4.Models.MovieVM
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+@Html.Partial("_CreateMovie",Model.Movie)
+@Html.Partial("_MoviesList",Model.Movies)

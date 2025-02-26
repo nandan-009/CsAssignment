@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nandan.ds\\Music\\DotNet\\MVCAssigment-4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E63CA55D-D89E-4C17-ACAF-1AB407A846B1}|MVCAssigment-4\\MVCAssigment-4.csproj|c:\\users\\nandan.ds\\music\\dotnet\\mvcassigment-4\\mvcassigment-4\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E63CA55D-D89E-4C17-ACAF-1AB407A846B1}|MVCAssigment-4\\MVCAssigment-4.csproj|solutionrelative:mvcassigment-4\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E63CA55D-D89E-4C17-ACAF-1AB407A846B1}|MVCAssigment-4\\MVCAssigment-4.csproj|c:\\users\\nandan.ds\\music\\dotnet\\mvcassigment-4\\mvcassigment-4\\models\\moviedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E63CA55D-D89E-4C17-ACAF-1AB407A846B1}|MVCAssigment-4\\MVCAssigment-4.csproj|solutionrelative:mvcassigment-4\\models\\moviedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E63CA55D-D89E-4C17-ACAF-1AB407A846B1}|MVCAssigment-4\\MVCAssigment-4.csproj|c:\\users\\nandan.ds\\music\\dotnet\\mvcassigment-4\\mvcassigment-4\\models\\imoviedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E63CA55D-D89E-4C17-ACAF-1AB407A846B1}|MVCAssigment-4\\MVCAssigment-4.csproj|solutionrelative:mvcassigment-4\\models\\imoviedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E63CA55D-D89E-4C17-ACAF-1AB407A846B1}|MVCAssigment-4\\MVCAssigment-4.csproj|c:\\users\\nandan.ds\\music\\dotnet\\mvcassigment-4\\mvcassigment-4\\models\\movievm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E63CA55D-D89E-4C17-ACAF-1AB407A846B1}|MVCAssigment-4\\MVCAssigment-4.csproj|solutionrelative:mvcassigment-4\\models\\movievm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E63CA55D-D89E-4C17-ACAF-1AB407A846B1}|MVCAssigment-4\\MVCAssigment-4.csproj|c:\\users\\nandan.ds\\music\\dotnet\\mvcassigment-4\\mvcassigment-4\\views\\shared\\_movieslist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E63CA55D-D89E-4C17-ACAF-1AB407A846B1}|MVCAssigment-4\\MVCAssigment-4.csproj|solutionrelative:mvcassigment-4\\views\\shared\\_movieslist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E63CA55D-D89E-4C17-ACAF-1AB407A846B1}|MVCAssigment-4\\MVCAssigment-4.csproj|c:\\users\\nandan.ds\\music\\dotnet\\mvcassigment-4\\mvcassigment-4\\views\\shared\\_createmovie.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E63CA55D-D89E-4C17-ACAF-1AB407A846B1}|MVCAssigment-4\\MVCAssigment-4.csproj|solutionrelative:mvcassigment-4\\views\\shared\\_createmovie.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E63CA55D-D89E-4C17-ACAF-1AB407A846B1}|MVCAssigment-4\\MVCAssigment-4.csproj|c:\\users\\nandan.ds\\music\\dotnet\\mvcassigment-4\\mvcassigment-4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E63CA55D-D89E-4C17-ACAF-1AB407A846B1}|MVCAssigment-4\\MVCAssigment-4.csproj|solutionrelative:mvcassigment-4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E63CA55D-D89E-4C17-ACAF-1AB407A846B1}|MVCAssigment-4\\MVCAssigment-4.csproj|c:\\users\\nandan.ds\\music\\dotnet\\mvcassigment-4\\mvcassigment-4\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E63CA55D-D89E-4C17-ACAF-1AB407A846B1}|MVCAssigment-4\\MVCAssigment-4.csproj|solutionrelative:mvcassigment-4\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E63CA55D-D89E-4C17-ACAF-1AB407A846B1}|MVCAssigment-4\\MVCAssigment-4.csproj|c:\\users\\nandan.ds\\music\\dotnet\\mvcassigment-4\\mvcassigment-4\\models\\moviedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E63CA55D-D89E-4C17-ACAF-1AB407A846B1}|MVCAssigment-4\\MVCAssigment-4.csproj|solutionrelative:mvcassigment-4\\models\\moviedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E63CA55D-D89E-4C17-ACAF-1AB407A846B1}|MVCAssigment-4\\MVCAssigment-4.csproj|c:\\users\\nandan.ds\\music\\dotnet\\mvcassigment-4\\mvcassigment-4\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E63CA55D-D89E-4C17-ACAF-1AB407A846B1}|MVCAssigment-4\\MVCAssigment-4.csproj|solutionrelative:mvcassigment-4\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E63CA55D-D89E-4C17-ACAF-1AB407A846B1}|MVCAssigment-4\\MVCAssigment-4.csproj|c:\\users\\nandan.ds\\music\\dotnet\\mvcassigment-4\\mvcassigment-4\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E63CA55D-D89E-4C17-ACAF-1AB407A846B1}|MVCAssigment-4\\MVCAssigment-4.csproj|solutionrelative:mvcassigment-4\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IMovieDAO.cs",
+              "DocumentMoniker": "C:\\Users\\nandan.ds\\Music\\DotNet\\MVCAssigment-4\\MVCAssigment-4\\Models\\IMovieDAO.cs",
+              "RelativeDocumentMoniker": "MVCAssigment-4\\Models\\IMovieDAO.cs",
+              "ToolTip": "C:\\Users\\nandan.ds\\Music\\DotNet\\MVCAssigment-4\\MVCAssigment-4\\Models\\IMovieDAO.cs",
+              "RelativeToolTip": "MVCAssigment-4\\Models\\IMovieDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T09:01:21.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\nandan.ds\\Music\\DotNet\\MVCAssigment-4\\MVCAssigment-4\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MVCAssigment-4\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\nandan.ds\\Music\\DotNet\\MVCAssigment-4\\MVCAssigment-4\\Controllers\\HomeController.cs*",
+              "RelativeToolTip": "MVCAssigment-4\\Controllers\\HomeController.cs*",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T09:48:43.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MovieVM.cs",
+              "DocumentMoniker": "C:\\Users\\nandan.ds\\Music\\DotNet\\MVCAssigment-4\\MVCAssigment-4\\Models\\MovieVM.cs",
+              "RelativeDocumentMoniker": "MVCAssigment-4\\Models\\MovieVM.cs",
+              "ToolTip": "C:\\Users\\nandan.ds\\Music\\DotNet\\MVCAssigment-4\\MVCAssigment-4\\Models\\MovieVM.cs",
+              "RelativeToolTip": "MVCAssigment-4\\Models\\MovieVM.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T09:27:40.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_CreateMovie.cshtml",
+              "DocumentMoniker": "C:\\Users\\nandan.ds\\Music\\DotNet\\MVCAssigment-4\\MVCAssigment-4\\Views\\Shared\\_CreateMovie.cshtml",
+              "RelativeDocumentMoniker": "MVCAssigment-4\\Views\\Shared\\_CreateMovie.cshtml",
+              "ToolTip": "C:\\Users\\nandan.ds\\Music\\DotNet\\MVCAssigment-4\\MVCAssigment-4\\Views\\Shared\\_CreateMovie.cshtml",
+              "RelativeToolTip": "MVCAssigment-4\\Views\\Shared\\_CreateMovie.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T09:57:51.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MovieDAO.cs",
+              "DocumentMoniker": "C:\\Users\\nandan.ds\\Music\\DotNet\\MVCAssigment-4\\MVCAssigment-4\\Models\\MovieDAO.cs",
+              "RelativeDocumentMoniker": "MVCAssigment-4\\Models\\MovieDAO.cs",
+              "ToolTip": "C:\\Users\\nandan.ds\\Music\\DotNet\\MVCAssigment-4\\MVCAssigment-4\\Models\\MovieDAO.cs",
+              "RelativeToolTip": "MVCAssigment-4\\Models\\MovieDAO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T09:00:59.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_MoviesList.cshtml",
+              "DocumentMoniker": "C:\\Users\\nandan.ds\\Music\\DotNet\\MVCAssigment-4\\MVCAssigment-4\\Views\\Shared\\_MoviesList.cshtml",
+              "RelativeDocumentMoniker": "MVCAssigment-4\\Views\\Shared\\_MoviesList.cshtml",
+              "ToolTip": "C:\\Users\\nandan.ds\\Music\\DotNet\\MVCAssigment-4\\MVCAssigment-4\\Views\\Shared\\_MoviesList.cshtml",
+              "RelativeToolTip": "MVCAssigment-4\\Views\\Shared\\_MoviesList.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T10:19:17.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nandan.ds\\Music\\DotNet\\MVCAssigment-4\\MVCAssigment-4\\Program.cs",
+              "RelativeDocumentMoniker": "MVCAssigment-4\\Program.cs",
+              "ToolTip": "C:\\Users\\nandan.ds\\Music\\DotNet\\MVCAssigment-4\\MVCAssigment-4\\Program.cs",
+              "RelativeToolTip": "MVCAssigment-4\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwBUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T10:15:25.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\nandan.ds\\Music\\DotNet\\MVCAssigment-4\\MVCAssigment-4\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCAssigment-4\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\nandan.ds\\Music\\DotNet\\MVCAssigment-4\\MVCAssigment-4\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MVCAssigment-4\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T10:20:23.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MovieDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\nandan.ds\\Music\\DotNet\\MVCAssigment-4\\MVCAssigment-4\\Models\\MovieDBContext.cs",
+              "RelativeDocumentMoniker": "MVCAssigment-4\\Models\\MovieDBContext.cs",
+              "ToolTip": "C:\\Users\\nandan.ds\\Music\\DotNet\\MVCAssigment-4\\MVCAssigment-4\\Models\\MovieDBContext.cs",
+              "RelativeToolTip": "MVCAssigment-4\\Models\\MovieDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T10:30:19.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\nandan.ds\\Music\\DotNet\\MVCAssigment-4\\MVCAssigment-4\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "MVCAssigment-4\\Models\\Movie.cs",
+              "ToolTip": "C:\\Users\\nandan.ds\\Music\\DotNet\\MVCAssigment-4\\MVCAssigment-4\\Models\\Movie.cs",
+              "RelativeToolTip": "MVCAssigment-4\\Models\\Movie.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T08:45:35.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\nandan.ds\\Music\\DotNet\\MVCAssigment-4\\MVCAssigment-4\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MVCAssigment-4\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\nandan.ds\\Music\\DotNet\\MVCAssigment-4\\MVCAssigment-4\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MVCAssigment-4\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T09:58:04.77Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

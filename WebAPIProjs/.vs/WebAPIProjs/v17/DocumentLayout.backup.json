@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nandan.ds\\Music\\DotNet\\WebAPIProjs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9041D7E9-8BEA-4EF7-A68E-155AFAD658DA}|EmployeesWebAPI\\EmployeesWebAPI.csproj|c:\\users\\nandan.ds\\music\\dotnet\\webapiprojs\\employeeswebapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9041D7E9-8BEA-4EF7-A68E-155AFAD658DA}|EmployeesWebAPI\\EmployeesWebAPI.csproj|solutionrelative:employeeswebapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9041D7E9-8BEA-4EF7-A68E-155AFAD658DA}|EmployeesWebAPI\\EmployeesWebAPI.csproj|c:\\users\\nandan.ds\\music\\dotnet\\webapiprojs\\employeeswebapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9041D7E9-8BEA-4EF7-A68E-155AFAD658DA}|EmployeesWebAPI\\EmployeesWebAPI.csproj|solutionrelative:employeeswebapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9041D7E9-8BEA-4EF7-A68E-155AFAD658DA}|EmployeesWebAPI\\EmployeesWebAPI.csproj|c:\\users\\nandan.ds\\music\\dotnet\\webapiprojs\\employeeswebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9041D7E9-8BEA-4EF7-A68E-155AFAD658DA}|EmployeesWebAPI\\EmployeesWebAPI.csproj|solutionrelative:employeeswebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9041D7E9-8BEA-4EF7-A68E-155AFAD658DA}|EmployeesWebAPI\\EmployeesWebAPI.csproj|c:\\users\\nandan.ds\\music\\dotnet\\webapiprojs\\employeeswebapi\\models\\userdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9041D7E9-8BEA-4EF7-A68E-155AFAD658DA}|EmployeesWebAPI\\EmployeesWebAPI.csproj|solutionrelative:employeeswebapi\\models\\userdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 155,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserDetails.cs",
+              "DocumentMoniker": "C:\\Users\\nandan.ds\\Music\\DotNet\\WebAPIProjs\\EmployeesWebAPI\\Models\\UserDetails.cs",
+              "RelativeDocumentMoniker": "EmployeesWebAPI\\Models\\UserDetails.cs",
+              "ToolTip": "C:\\Users\\nandan.ds\\Music\\DotNet\\WebAPIProjs\\EmployeesWebAPI\\Models\\UserDetails.cs",
+              "RelativeToolTip": "EmployeesWebAPI\\Models\\UserDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T09:21:18.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\nandan.ds\\Music\\DotNet\\WebAPIProjs\\EmployeesWebAPI\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "EmployeesWebAPI\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\nandan.ds\\Music\\DotNet\\WebAPIProjs\\EmployeesWebAPI\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "EmployeesWebAPI\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAwwB0AAABtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T09:20:34.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\nandan.ds\\Music\\DotNet\\WebAPIProjs\\EmployeesWebAPI\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "EmployeesWebAPI\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\nandan.ds\\Music\\DotNet\\WebAPIProjs\\EmployeesWebAPI\\Controllers\\EmployeeController.cs*",
+              "RelativeToolTip": "EmployeesWebAPI\\Controllers\\EmployeeController.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T06:09:21.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nandan.ds\\Music\\DotNet\\WebAPIProjs\\EmployeesWebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeesWebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\nandan.ds\\Music\\DotNet\\WebAPIProjs\\EmployeesWebAPI\\Program.cs",
+              "RelativeToolTip": "EmployeesWebAPI\\Program.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAACYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T05:37:14.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
